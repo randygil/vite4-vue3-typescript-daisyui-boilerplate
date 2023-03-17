@@ -16,7 +16,7 @@ To use this boilerplate, you need to have Node.js and pnpm installed on your mac
 1. Clone this repository to your local machine.
 2. Install the dependencies by running `pnpm install`.
 3. Start the development server by running `pnpm run dev`.
-4. Open your web browser and navigate to `http://localhost:3000`.
+4. Open your web browser and navigate to `http://localhost:5173`.
 
 ## Building for Production
 
